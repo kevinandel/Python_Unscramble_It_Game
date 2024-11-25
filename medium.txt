@@ -1,0 +1,10 @@
+cloud - a type of weather phenomenon
+river - a type of body of water
+mountain - a type of landform
+city - a type of urban area
+village - a type of rural area
+library - a type of institution
+hospital - a type of institution
+park - a type of public space
+zoo - a type of institution
+museum - a type of institution

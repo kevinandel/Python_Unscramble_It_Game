@@ -1,0 +1,4 @@
+Welcome to the Word Unscramble Game!
+In this game, you will be given a jumbled word to unscramble.
+There are three levels: Easy, Medium, and Hard.
+You have 3 lives and 3 skips. Try to get the highest score!

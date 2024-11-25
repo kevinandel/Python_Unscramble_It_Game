@@ -1,0 +1,5 @@
+galaxy - a type of celestial body
+planet - a type of celestial body
+scientist - a type of profession
+astronaut - a type of profession
+encyclopedia - a type of reference material

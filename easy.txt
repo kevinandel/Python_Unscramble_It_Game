@@ -1,0 +1,20 @@
+cat - a type of pet
+dog - a type of animal
+car - a type of vehicle
+pen - a writing instrument
+book - a reading material
+chair - a piece of furniture
+bike - a type of vehicle
+house - a type of building
+tree - a type of plant
+flower - a type of plant
+bird - a type of animal
+fish - a type of aquatic animal
+friend - a type of relationship
+family - a type of relationship
+school - a type of institution
+teacher - a type of profession
+pencil - a writing instrument
+paper - a writing material
+sun - a celestial body
+apple - a type of fruit
